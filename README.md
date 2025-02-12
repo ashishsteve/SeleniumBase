@@ -87,7 +87,7 @@ with SB(test=True) as sb:
 
 <p align="left">📗 Here's an example of bypassing Cloudflare's challenge page: <a href="https://github.com/seleniumbase/SeleniumBase/blob/master/examples/cdp_mode/raw_gitlab.py">SeleniumBase/examples/cdp_mode/raw_gitlab.py</a></p>
 
-```python
+```python.
 from seleniumbase import SB
 
 with SB(uc=True, test=True, locale_code="en") as sb:
